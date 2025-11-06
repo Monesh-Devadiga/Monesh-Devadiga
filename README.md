@@ -2,6 +2,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monesh-devadiga-9a8ab9364 )
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/monesh.16?igsh=Mjc0dnMwMnRmazJo )
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moneshdevadiga28@gmail.com)
+
 <!--
 **Monesh-Devadiga/Monesh-Devadiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
