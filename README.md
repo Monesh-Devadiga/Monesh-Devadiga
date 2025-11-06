@@ -5,6 +5,9 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moneshdevadiga28@gmail.com)
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-green?logo=whatsapp)](https://wa.me/7406812310)
+
+
 <!--
 **Monesh-Devadiga/Monesh-Devadiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
