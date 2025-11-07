@@ -1,4 +1,6 @@
-## Hi there 👋
+👋 Hi, I'm Monesh Devadiga — a passionate developer who loves building impactful projects and learning new technologies.
+  Explore my repositories and see what I’m working on below!
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monesh-devadiga-9a8ab9364 )   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/monesh.16igsh=Mjc0dnMwMnRmazJo )   
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moneshdevadiga28@gmail.com)   
