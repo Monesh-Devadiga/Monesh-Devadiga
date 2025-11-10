@@ -30,6 +30,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=wordpress&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)-->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--
 **Monesh-Devadiga/Monesh-Devadiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
