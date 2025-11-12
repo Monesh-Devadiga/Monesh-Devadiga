@@ -32,6 +32,8 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)-->
 
 ## 📊 GitHub Stats:
+![GitHub Streak](https://streak-stats.demolab.com?user=Monesh-Devadiga&theme=tokyonight)
+
 ![Monesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monesh-Devadiga&show_icons=true&theme=tokyonight)
 
 ---
@@ -45,6 +47,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monesh-Devadiga&layout=compact&theme=tokyonight)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <!--
 **Monesh-Devadiga/Monesh-Devadiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
