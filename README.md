@@ -34,9 +34,16 @@
 
 
 ## 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=Monesh-Devadiga&theme=tokyonight)
 
 ![Monesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monesh-Devadiga&show_icons=true&theme=tokyonight)
+
+
+
+---
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Monesh-Devadiga&theme=tokyonight)
+
 
 ---
 
