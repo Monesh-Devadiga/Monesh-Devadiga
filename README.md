@@ -30,6 +30,20 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=wordpress&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)-->
+
+## 📊 GitHub Stats:
+![Monesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=moneshkd&show_icons=true&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=moneshkd&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+---
+
+## 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moneshkd&layout=compact&theme=tokyonight)
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--
