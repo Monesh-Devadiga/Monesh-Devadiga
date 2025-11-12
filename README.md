@@ -32,17 +32,17 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)-->
 
 ## 📊 GitHub Stats:
-![Monesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=moneshkd&show_icons=true&theme=tokyonight)
+![Monesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monesh-Devadiga&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=moneshkd&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Monesh-Devadiga&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
 ## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moneshkd&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monesh-Devadiga&layout=compact&theme=tokyonight)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
