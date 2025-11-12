@@ -42,7 +42,7 @@
 ---
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MoneshKD&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Monesh-Devadiga&theme=tokyonight)
 
 
 ---
