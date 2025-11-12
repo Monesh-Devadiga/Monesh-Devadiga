@@ -41,9 +41,7 @@
 
 ---
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Monesh-Devadiga&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.vercel.app?user=Monesh-Devadiga&theme=tokyonight)
 
 ---
 
