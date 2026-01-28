@@ -53,7 +53,6 @@
 ## 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monesh-Devadiga&layout=compact&theme=tokyonight)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <!--
