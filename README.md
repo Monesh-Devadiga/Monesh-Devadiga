@@ -46,6 +46,10 @@
 ---
 
 ## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Monesh-Devadiga&theme=onedark&no-frame=true&margin-w=4)
+
+
+## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Monesh-Devadiga&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ---
