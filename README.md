@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Stats:
 
-![Monesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monesh-Devadiga&show_icons=true&theme=tokyonight)
+<!--![Monesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monesh-Devadiga&show_icons=true&theme=tokyonight)-->
 
 
 
