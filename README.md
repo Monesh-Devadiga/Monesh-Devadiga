@@ -45,8 +45,6 @@
 ![--->](https://komarev.com/ghpvc/?username=Monesh-Devadiga&color=blue)
 
 
----
-
 ## 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Monesh-Devadiga&layout=compact&theme=tokyonight)
 
