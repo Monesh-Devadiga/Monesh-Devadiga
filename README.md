@@ -35,11 +35,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Monesh-Devadiga&color=blue" height="50">
+  <img src="https://komarev.com/ghpvc/?username=Monesh-Devadiga&color=blue" height="100">
 </p>
-
-## ![--->](https://komarev.com/ghpvc/?username=Monesh-Devadiga&color=blue)
-
 <!--![Monesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monesh-Devadiga&show_icons=true&theme=tokyonight)-->
 ![GitHub Streak](https://streak-stats.vercel.app?user=Monesh-Devadiga&theme=tokyonight)
 
