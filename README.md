@@ -35,15 +35,13 @@
 
 ## 📊 GitHub Stats:
 
+## 👁️ Profile Views
+![--->](https://komarev.com/ghpvc/?username=Monesh-Devadiga&color=blue)
 <!--![Monesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monesh-Devadiga&show_icons=true&theme=tokyonight)-->
-
 ![GitHub Streak](https://streak-stats.vercel.app?user=Monesh-Devadiga&theme=tokyonight)
 
 <!--## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Monesh-Devadiga&theme=onedark&no-frame=true" />-->
-## 👁️ Profile Views
-![--->](https://komarev.com/ghpvc/?username=Monesh-Devadiga&color=blue)
-
 
 ## 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Monesh-Devadiga&layout=compact&theme=tokyonight)
