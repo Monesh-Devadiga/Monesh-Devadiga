@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Stats:
 
-## 👁️ Profile Views![--->](https://komarev.com/ghpvc/?username=Monesh-Devadiga&color=blue)
+## 👁️ Profile Views      ![--->](https://komarev.com/ghpvc/?username=Monesh-Devadiga&color=blue)
 
 <!--![Monesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monesh-Devadiga&show_icons=true&theme=tokyonight)-->
 ![GitHub Streak](https://streak-stats.vercel.app?user=Monesh-Devadiga&theme=tokyonight)
