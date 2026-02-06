@@ -34,6 +34,9 @@
 
 
 ## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Monesh-Devadiga&color=blue" height="50">
+</p>
 
 ## ![--->](https://komarev.com/ghpvc/?username=Monesh-Devadiga&color=blue)
 
