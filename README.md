@@ -38,8 +38,9 @@
   <img src="https://komarev.com/ghpvc/?username=Monesh-Devadiga&color=blue" height="100">
 </p>
 <!--![Monesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monesh-Devadiga&show_icons=true&theme=tokyonight)-->
-## 🔥 Current Streaks
-![GitHub Streak](https://streak-stats.vercel.app?user=Monesh-Devadiga&theme=tokyonight)
+
+<img src="https://streak-stats.vercel.app?user=Monesh-Devadiga&theme=tokyonight" height="180" />
+
 
 <!--## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Monesh-Devadiga&theme=onedark&no-frame=true" />-->
