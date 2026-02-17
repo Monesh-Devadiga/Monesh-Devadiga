@@ -1,4 +1,4 @@
-👋 Hi, I'm Monesh Devadiga — a passionate developer who loves building impactful projects and learning new technologies.
+👋 Hi, I'm Monesh Devadiga - a passionate developer who loves building impactful projects and learning new technologies.
   Explore my repositories and see what I’m working on below!
 
 ## 🌐 Socials:
