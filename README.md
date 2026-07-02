@@ -2,7 +2,7 @@
   Explore my repositories and see what I'm working on below!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monesh-devadiga-9a8ab9364 )               [![Portfolio](https://img.shields.io/badge/Portfolio-0969EA?)](https://moneshdevadiga.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monesh-devadiga-9a8ab9364 )               [![Portfolio](https://img.shields.io/badge/Portfolio-FACC15?)](https://moneshdevadiga.netlify.app/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/monesh.16?igsh=MTVueXc5eGY3eWE0Yw==)   
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moneshdevadiga28@gmail.com)   
