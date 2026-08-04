@@ -50,6 +50,7 @@
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Monesh-Devadiga&layout=compact&theme=tokyonight)
 
 ## 📈 Contribution Activity
+
 <p align="center">
-  <img src="./assets/contribution-activity.png" alt="Contribution Activity" width="100%">
+  <img src="https://raw.githubusercontent.com/Monesh-Devadiga/REPOSITORY/main/assets/contribution-activity.png" alt="Contribution Activity" width="100%">
 </p>
