@@ -52,5 +52,5 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Monesh-Devadiga/Monesh-Devadiga/main/assets/contribution-activity.png" alt="Contribution Activity" width="100%">
+  <img src="https://github.com/Monesh-Devadiga/Monesh-Devadiga/blob/main/assets/contribution-activity.png?raw=true" alt="Contribution Activity">
 </p>
