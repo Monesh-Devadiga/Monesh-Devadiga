@@ -52,5 +52,5 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/Monesh-Devadiga/Monesh-Devadiga/blob/main/assets/contribution-activity.png?raw=true" alt="Contribution Activity">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monesh-Devadiga&theme=github-dark" alt="Contribution Graph">
 </p>
