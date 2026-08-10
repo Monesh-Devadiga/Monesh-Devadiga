@@ -48,12 +48,11 @@
 
 ## 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Monesh-Devadiga&layout=compact&theme=tokyonight)
-
+<!--
 ## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Monesh-Devadiga&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
+</p>-->
 
 ## 📈 Contribution Activity
 
