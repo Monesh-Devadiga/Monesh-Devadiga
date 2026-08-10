@@ -47,7 +47,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Monesh-Devadiga&theme=onedark&no-frame=true" />-->
 
 ## 💻 Most Used Languages
-<p align="center">
+<p>
   <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=Monesh-Devadiga&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
     alt="Monesh's Most Used Languages"
