@@ -64,3 +64,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monesh-Devadiga&theme=github-dark&custom_title=Contribution%20Graph&hide_border=true" alt="Contribution Graph">
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monesh-Devadiga&theme=github-compact&hide_border=true" alt="Contribution Graph">
+</p>
