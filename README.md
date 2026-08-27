@@ -53,19 +53,17 @@
     alt="Monesh's Most Used Languages"
   />
 </p>
-<!--
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Monesh-Devadiga&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>-->
-## 📈 Contribution Activity
+</p>
+
+
+<!--## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Monesh-Devadiga/Monesh-Devadiga/output/activity-graph.svg" alt="Contribution Graph">
-</p>
+</p>-->
 
-## 💻 Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monesh-Devadiga&layout=donut&theme=github_dark&hide_border=true" alt="Most Used Languages">
-</p>
