@@ -63,3 +63,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Monesh-Devadiga/Monesh-Devadiga/output/activity-graph.svg" alt="Contribution Graph">
 </p>
+
+## 💻 Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monesh-Devadiga&layout=donut&theme=github_dark&hide_border=true" alt="Most Used Languages">
+</p>
