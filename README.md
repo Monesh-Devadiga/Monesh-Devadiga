@@ -62,5 +62,5 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monesh-Devadiga&theme=github-compact&hide_border=true" alt="Contribution Graph">
+  <img src="https://ghchart.xqsit94.in/dark:default/Monesh-Devadiga" alt="Contribution Graph">
 </p>
