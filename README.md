@@ -58,9 +58,8 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Monesh-Devadiga&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>-->
-
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monesh-Devadiga&theme=github-dark&hide_border=true" alt="Contribution Graph">
+  <img src="https://raw.githubusercontent.com/Monesh-Devadiga/Monesh-Devadiga/output/activity-graph.svg" alt="Contribution Graph">
 </p>
