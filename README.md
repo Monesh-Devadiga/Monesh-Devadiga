@@ -62,9 +62,5 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monesh-Devadiga&theme=github-dark&custom_title=Contribution%20Graph&hide_border=true" alt="Contribution Graph">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monesh-Devadiga&theme=github-dark&custom_title=Contribution%20Graph&hide_border=true&v=1" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monesh-Devadiga&theme=github-dark&hide_title=true&hide_border=true" alt="Contribution Graph">
 </p>
