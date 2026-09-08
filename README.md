@@ -60,21 +60,11 @@
 </p>
 
 ## 📊 GitHub Statistics
-
 <p align="center">
-  <img
-    src="https://github.cards/api/card/Monesh-Devadiga"
-    alt="Monesh Devadiga GitHub Statistics"
-  >
-</p>
-
-## 📈 Contribution Activity
-<p align="center">
-  <img src="YOUR_CARD_URL" alt="Contribution Activity">
+[![Made by Monesh Devadiga](https://gitshow.dev/api/card/Monesh-Devadiga)](https://gitshow.dev/Monesh-Devadiga)
 </p>
 
 <!--## 📈 Contribution Activity
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Monesh-Devadiga/Monesh-Devadiga/output/activity-graph.svg" alt="Contribution Graph">
 </p>-->
