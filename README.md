@@ -59,10 +59,13 @@
   <img src="https://trophy.ryglcloud.net/?username=Monesh-Devadiga&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-## 📈 Contribution Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monesh-Devadiga&theme=github-dark&hide_border=true" alt="Monesh Devadiga Contribution Activity">
+  <img
+    src="https://github.cards/api/card/Monesh-Devadiga"
+    alt="Monesh Devadiga GitHub Statistics"
+  >
 </p>
 
 ## 📈 Contribution Activity
