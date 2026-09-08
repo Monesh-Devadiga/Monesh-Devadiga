@@ -60,6 +60,12 @@
 </p>
 
 ## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monesh-Devadiga&theme=github-dark&hide_border=true" alt="Monesh Devadiga Contribution Activity">
+</p>
+
+## 📈 Contribution Activity
 <p align="center">
   <img src="YOUR_CARD_URL" alt="Contribution Activity">
 </p>
