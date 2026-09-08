@@ -9,7 +9,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-green?logo=whatsapp)](https://wa.me/7406812310)
 
 
-
 ## 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
@@ -32,8 +31,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)-->
 
-
-
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Monesh-Devadiga&color=blue" height="100">
@@ -42,9 +39,6 @@
 <p align="center">
 <img src="https://streak-stats.vercel.app?user=Monesh-Devadiga&theme=tokyonight" height="180" />
 </p>
-
-<!--## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Monesh-Devadiga&theme=onedark&no-frame=true" />-->
 
 ## 💻 Most Used Languages
 <p>
@@ -57,11 +51,6 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Monesh-Devadiga&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-## 📊 GitHub Statistics
-<p align="center">
-[![Made by Monesh Devadiga](https://gitshow.dev/api/card/Monesh-Devadiga)](https://gitshow.dev/Monesh-Devadiga)
 </p>
 
 <!--## 📈 Contribution Activity
