@@ -1,6 +1,6 @@
 👋 Hi, I'm Monesh Devadiga - a passionate developer who loves building impactful projects and learning new technologies.
   Explore my repositories and see what I'm working on below!  
-[![committers.top badge](https://user-badge.committers.top/india_public/USERNAME.svg)](https://user-badge.committers.top/india_public/Monesh-Devadiga)
+<!--[![committers.top badge](https://user-badge.committers.top/india_public/USERNAME.svg)](https://user-badge.committers.top/india_public/Monesh-Devadiga)-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monesh-devadiga-9a8ab9364 )               [![Portfolio](https://img.shields.io/badge/Portfolio-FACC15?)](https://moneshdevadiga.netlify.app/)
